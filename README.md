@@ -5,6 +5,8 @@
 
 # Overview
 
+*Exe file in dist/main*
+
 This project assembles a Web scrapper scraping covid 19 pandemic statistic around the world. 
 User can invoke the data by typing a query or speaking a query, using voice recognition technique.
 
