@@ -24,4 +24,6 @@ User can invoke the data by typing a query or speaking a query, using voice reco
 * The scrapping is done by ParseHub program.
 * The GUI for the user is made with PySimpleGui library.
 * The voice recognition is modeled by voice recognition, re, and PyAudio libraries, and uses Google Voice-To-Text technique.
+*  Seperate Thread is use for consistent check for update from the web.
+*  Written in Python PL
 
